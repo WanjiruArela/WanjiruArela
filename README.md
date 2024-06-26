@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=" />
+
+
 - 👋 Hi, I’m Clementine Wanjiru
 - 👀 I’m  working on React, Next.js,node and tailwind projects
 - 🌱 I’m currently practising java and kotlin to create Mobile Application apps 
